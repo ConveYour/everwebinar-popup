@@ -22,7 +22,7 @@ We were having a lot of problems with the stock script..
 
 ## How to use...
 
-1. Include the script on your page you want to have the webinar registration popup show
+**1. Include the script on your page you want to have the webinar registration popup show**
 
 
 ```
@@ -30,7 +30,7 @@ We were having a lot of problems with the stock script..
 </body>
 ```
 
-2. Add links in your HTML that open the popup.
+**2. Add links in your HTML that open the popup.**
 
 
 ```
@@ -42,7 +42,7 @@ We were having a lot of problems with the stock script..
 - data-webicode : REQUIRED pace your everwebinar webinar code here.
 - data-tz : optional, you can set the desired timezone right on the element instead of using the timezone detected in the script.. 
 
-3. Instantiate EverWebinar()
+**3. Instantiate EverWebinar()**
 
 Include a script like this AFTER loading the webinar-popup.js file
 
@@ -63,7 +63,7 @@ Include a script like this AFTER loading the webinar-popup.js file
 
 ```
 
-4. Other things you can do...
+**4. Other things you can do...**
 
 pre-load after 2 seconds on page...
 
